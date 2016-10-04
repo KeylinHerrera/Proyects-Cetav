@@ -1,0 +1,41 @@
+/*Index*/
+.wrapper{
+	width: 968px;
+	margin: 0 auto;
+}
+
+/*Header*/
+.menu a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: $primary-color;
+}
+.menu li{
+	display: inline;
+	margin-left: 54px;
+	position: relative;
+	bottom: 30px;
+	left: 380px;
+}
+
+/*Content*/
+.descr{
+	width: 327px;
+	background-color: $primary-color;
+	position: relative;
+	bottom: 230px;
+	left: 580px;
+	display: $new-display;
+}
+.data{
+	padding: 15px;
+}
+
+/*Main Content*/
+.info{
+	width: 320px;
+	display: $new-display;
+	position: relative;
+    bottom: 160px;
+}
+

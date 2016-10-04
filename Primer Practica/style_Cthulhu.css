@@ -1,0 +1,122 @@
+/*Reset*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*Helper Class*/
+.clearFix:after{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.clearFix{
+    display: block;
+}
+
+/*Generales*/
+*{
+	line-height: 150%;
+}
+
+h1 {
+	font-family: arial;
+}
+
+h2{
+	font-family: helvetica;
+	font-size: 18px;
+}
+
+.objective p{
+	font-family: arial;
+	font-size: 14px;
+	font-style: italic;
+	color: #666666;
+}
+
+/*Index*/
+.wrapper{
+	width: 800px;
+	margin: 0 auto;
+	float: center;
+}
+
+.mainContent{
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+/*Text*/
+.email{
+	color: #999999;
+}
+
+.mainContent span{
+	font-family: arial;
+	font-size: 12px;
+	font-style: italic;
+	color: #999999;
+	float: right;
+}
+
+.category h2{
+	font-style: italic;
+	text-align: right;
+	margin-right: 45px;
+}
+
+.experience li{
+	margin-left: 17px;
+
+}
+
+/*Image*/
+.pic {
+	float: right;
+	width: 253px;
+}
+
+/*Lines*/
+
+.line{
+ 	display: block;
+	height: 1px;
+	background-color: black;
+	margin-top: 5px;
+	margin-bottom: 10px;
+ }
+
+.diLine{
+	width: 1px;
+	height: 90px;
+	background-color: white;
+	float: left;
+}
+
+ /*Content*/
+.category{
+ 	width: 150px;
+ 	margin: 0 auto;
+ 	float: left;
+ 	margin-left: 40px;
+ }
+
+.info{
+ 	width: 565px;
+ 	margin: 0 auto;
+ 	display: inline-block;
+ 	margin-left: 40px;
+ }
+
+.education, .skills, .experience, .hobbies, .references{
+ 	margin-bottom: 40px;
+ }
+
+.references{
+	margin-top: 100px;
+}

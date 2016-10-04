@@ -1,0 +1,64 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0; }
+
+/*General*/
+a {
+  font: 14px arial, sans-serif; }
+
+h3 {
+  text-transform: uppercase;
+  color: #04b0ed; }
+
+/*Index*/
+.wrapper {
+  width: 968px;
+  margin: 0 auto; }
+
+/*Header*/
+.menu a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff; }
+
+.menu li {
+  display: inline;
+  margin-left: 54px;
+  position: relative;
+  bottom: 30px;
+  left: 380px; }
+
+/*Content*/
+.descr {
+  width: 327px;
+  background-color: #fff;
+  position: relative;
+  bottom: 230px;
+  left: 580px;
+  display: inline-block; }
+
+.data {
+  padding: 15px; }
+
+/*Main Content*/
+.info {
+  width: 320px;
+  display: inline-block;
+  position: relative;
+  bottom: 160px; }
+
+/*Main Content*/
+.info a {
+  font-size: 17px; }
+
+/*Content*/
+.boy-pic {
+  position: relative;
+  bottom: 22px; }
+
+/*Main Content*/
+.info img {
+  margin-bottom: 16px; }
+
+/*# sourceMappingURL=main.css.map */

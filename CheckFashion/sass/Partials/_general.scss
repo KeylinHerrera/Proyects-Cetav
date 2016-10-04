@@ -1,0 +1,15 @@
+/*Reset*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*General*/
+a{
+	font: 14px $font-stack;
+}
+
+h3{
+	text-transform: uppercase;
+	color:  $second-color;
+}
