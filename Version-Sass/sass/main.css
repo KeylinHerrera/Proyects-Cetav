@@ -1,0 +1,96 @@
+/*Helper Class*/
+.clearFix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0; }
+
+.clearFix {
+  display: block; }
+
+/*Generales*/
+* {
+  margin: 0;
+  padding: 0; }
+
+* {
+  line-height: 150%; }
+
+h1 {
+  font-family: arial, sans-serif; }
+
+h2 {
+  font: 18px helvetica, sans-serif; }
+
+.objective p {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  color: #666666; }
+
+.mainContent span {
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  color: #999999;
+  float: right; }
+
+.email {
+  color: #999999; }
+
+.category h2 {
+  font-style: italic;
+  text-align: right;
+  margin-right: 45px; }
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+  float: center; }
+
+.mainContent {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 30px; }
+
+.experience li {
+  margin-left: 17px; }
+
+.line {
+  display: block;
+  height: 1px;
+  background-color: black;
+  margin-top: 5px;
+  margin-bottom: 10px; }
+
+.diLine {
+  width: 1px;
+  height: 90px;
+  background-color: black;
+  float: left; }
+
+.category {
+  width: 150px;
+  margin: 0 auto;
+  float: left;
+  margin-left: 40px; }
+
+.info {
+  width: 565px;
+  margin: 0 auto;
+  display: inline-block;
+  margin-left: 40px; }
+
+.education, .skills, .experience, .hobbies, .references {
+  margin-bottom: 40px; }
+
+.references {
+  margin-top: 100px; }
+
+.pic {
+  float: right;
+  width: 253px; }
+
+/*# sourceMappingURL=main.css.map */

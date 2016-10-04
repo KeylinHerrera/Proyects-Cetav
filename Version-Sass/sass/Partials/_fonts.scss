@@ -1,0 +1,28 @@
+.objective p{
+	font-family: $font-stack;
+	font-size: 14px;
+	font-style: $font-style;
+	color: $color-primary;
+}
+
+.mainContent span{
+	font-family: $font-stack;
+	font-size: 12px;
+	font-style: $font-style;
+	color: $color-second;
+	float: right;
+}
+
+
+.email{
+	color: $color-second;
+}
+
+.category h2{
+	font-style: $font-style;
+	text-align: right;
+	margin-right: 45px;
+}
+
+
+

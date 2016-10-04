@@ -1,0 +1,53 @@
+.wrapper{
+	width: 800px;
+	margin: 0 auto;
+	float: center;
+}
+
+.mainContent{
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.experience li{
+	margin-left: 17px;
+
+}
+
+.line{
+ 	display: block;
+	height: 1px;
+	background-color: $backS-color;
+	margin-top: 5px;
+	margin-bottom: 10px;
+ }
+
+.diLine{
+	width: 1px;
+	height: 90px;
+	background-color: $backS-color;
+	float: left;
+}
+
+.category{
+ 	width: 150px;
+ 	margin: 0 auto;
+ 	float: left;
+ 	margin-left: 40px;
+ }
+
+.info{
+ 	width: 565px;
+ 	margin: 0 auto;
+ 	display: inline-block;
+ 	margin-left: 40px;
+ }
+
+.education, .skills, .experience, .hobbies, .references{
+ 	margin-bottom: 40px;
+ }
+
+.references{
+	margin-top: 100px;
+}
