@@ -1,0 +1,32 @@
+.menu button{
+	background-color: $fourth-color;
+	border: none;
+    color: $thirth-color;
+    display: inline-block;
+    font-size: 12px;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+   }
+
+ .bu-house{
+ 	border-radius: 34px 0px 0px 34px;
+ }
+
+ .cont{
+ 	border-radius: 0px 34px 34px 0px;
+ }
+
+ .info-who button{
+ 	background-color: $fourth-color;
+	border: none;
+    border-radius: 6px;
+    color: $primary-color;
+    display: inline-block;
+    font-size: 10px;
+    margin-top: 30px;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;  
+ }

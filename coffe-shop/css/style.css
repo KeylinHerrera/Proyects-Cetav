@@ -1,0 +1,184 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+h2 {
+  color: #9d9c9d;
+  font: 17.74px Myriad Pro, sans-serif;
+  text-transform: uppercase; }
+
+h3 {
+  color: #9d9c9d;
+  font: 16px Myriad Pro, sans-serif;
+  text-transform: uppercase; }
+
+h4 {
+  font-size: 14px Myriad Pro, sans-serif;
+  text-transform: uppercase; }
+
+p {
+  color: #9d9c9d;
+  font: 13.3px Myriad Pro, sans-serif;
+  line-height: 150%; }
+
+.wrapper {
+  margin: 0 auto; }
+
+.wrapper {
+  width: 1280px; }
+
+.header-bg {
+  background-color: #e8e8e8;
+  border-top: 10px solid #664735;
+  height: 416px; }
+
+.slader-text {
+  display: inline-block;
+  margin-right: 155px;
+  position: relative;
+  left: 206px;
+  top: 116px;
+  width: 410px; }
+
+.service-area {
+  height: 380px;
+  margin: 140px 0px 0px 112px; }
+
+.service {
+  height: 145px;
+  display: inline-block;
+  text-align: center;
+  width: 283px; }
+
+.your-choise, .all-day {
+  margin-left: 100px; }
+
+.featur-who {
+  background-color: #664735;
+  display: inline-block;
+  height: 410px;
+  position: relative;
+  left: 649px;
+  bottom: 414px;
+  width: 631px; }
+
+.info-who {
+  color: white;
+  position: relative;
+  left: 53px;
+  top: 78px;
+  width: 508px; }
+
+.gallery {
+  position: relative;
+  bottom: 247px;
+  text-align: center; }
+
+.footer-info {
+  background-color: #664735;
+  height: 228px;
+  margin-top: 148px; }
+
+.foo-info {
+  display: inline-block;
+  color: white;
+  margin: 39px 0px 0px 87px;
+  vertical-align: text-top;
+  width: 230px; }
+
+.gallery p {
+  margin-top: 12px; }
+
+.info-who p, .footer p {
+  color: white; }
+
+.logo {
+  position: relative;
+  top: 38px;
+  left: 115px; }
+
+.house {
+  height: 12px; }
+
+.leftarrow {
+  position: relative;
+  left: 103px;
+  top: 49px; }
+
+.coffe-image {
+  height: 199px;
+  position: relative;
+  bottom: 78px;
+  left: 773px;
+  width: 310px; }
+
+.rightarrow {
+  position: relative;
+  bottom: 154px;
+  left: 851px; }
+
+.eclipse {
+  position: relative;
+  left: 322px;
+  bottom: 31px; }
+
+.service img, h3, p {
+  margin-bottom: 12px; }
+
+.coffe-cup {
+  display: inline-block; }
+
+.gallery-icon {
+  margin-top: 12px; }
+
+.images {
+  margin-top: 40px; }
+
+.arrow {
+  position: relative;
+  left: 637px;
+  top: 25px; }
+
+ul {
+  display: flex;
+  float: right;
+  margin-right: 112px; }
+
+.header li {
+  display: inline; }
+
+a {
+  color: #664735;
+  font: italic bold 13.3px Myriad Pro;
+  text-decoration: none; }
+
+.menu button {
+  background-color: #f4f4f4;
+  border: none;
+  color: #9d9c9d;
+  display: inline-block;
+  font-size: 12px;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase; }
+
+.bu-house {
+  border-radius: 34px 0px 0px 34px; }
+
+.cont {
+  border-radius: 0px 34px 34px 0px; }
+
+.info-who button {
+  background-color: #f4f4f4;
+  border: none;
+  border-radius: 6px;
+  color: #664735;
+  display: inline-block;
+  font-size: 10px;
+  margin-top: 30px;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */

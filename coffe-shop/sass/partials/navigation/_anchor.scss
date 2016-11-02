@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    float: right;
+    margin-right: 112px;
+}
+
+.header li{
+    display: inline;
+}
+
+a{
+	color: $primary-color;
+	font: $achor-font;
+	text-decoration: none;
+}

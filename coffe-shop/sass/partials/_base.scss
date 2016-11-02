@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	color: $thirth-color;
+	font: 17.74px $primary-font;
+	text-transform: uppercase;	
+}
+
+h3 {
+	color: $thirth-color;
+	font: 16px $primary-font;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 14px $primary-font;
+	text-transform: uppercase;
+}
+
+p {
+	color: $thirth-color;
+	font: 13.3px $primary-font;
+	line-height: 150%;
+}

@@ -1,0 +1,86 @@
+//header
+.wrapper{
+	margin: 0 auto;
+}
+
+.wrapper{
+	width: 1280px;
+}
+
+.header-bg{
+	background-color: $second-color;
+	border-top: 10px solid $primary-color;
+	height: 416px;
+}
+
+.slader-text {
+    display: inline-block;
+    margin-right: 155px;
+    position: relative;
+    left: 206px;
+    top: 116px;
+    width: 410px;
+}
+
+//content
+.service-area{
+	height: 380px;
+	margin: 140px 0px 0px 112px;
+}
+
+.service{
+	height: 145px;
+	display: inline-block;
+	text-align: center;
+	width: 283px;
+}
+
+//-------arreglar
+.your-choise, .all-day{
+	margin-left: 100px;
+}
+
+//main content
+.featur-who{
+	background-color: $primary-color;
+	display: inline-block;
+	height: 410px;
+	position: relative;
+	left: 649px;
+	bottom: 414px;
+	width: 631px;
+}
+
+.info-who {
+	color: white;
+    position: relative;
+    left: 53px;
+    top: 78px;
+    width: 508px;
+}
+
+.gallery {
+    position: relative;
+    bottom: 247px;
+    text-align: center;
+}
+
+//footer
+.footer-info{
+	background-color: $primary-color;
+	height: 228px;
+	margin-top: 148px;
+}
+
+.foo-info{
+	display: inline-block;
+	color: white;
+	margin: 39px 0px 0px 87px;
+	vertical-align: text-top;
+	width: 230px;
+}
+
+
+
+
+
