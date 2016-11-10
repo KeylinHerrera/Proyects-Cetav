@@ -1,0 +1,99 @@
+// Header
+.wrapper{
+    margin: 0 auto;
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 80em;
+}
+
+.header-bg{
+    background-color: $second-color;
+    border-top: 0.62em solid $primary-color;
+}
+
+.slader-text {
+    display: inline-block;
+    margin-right: 12.10%;
+    position: relative;
+    left: 16.09%;
+    top: 7.25em;
+    width: 32.03%;
+
+    h2{
+        margin-bottom: 1.12em;
+    }
+}
+
+// Content
+.service-area{
+    height: 23.75em;
+    margin: 8.75em 0em 0em 8.75%;
+}
+
+.service{
+    height: 9.06em;
+    display: inline-block;
+    text-align: center;
+    width: 22.10%;
+}
+
+.your-choise, .all-day{
+    margin-left: 7.81%;
+}
+
+// Main content
+.featur-who{
+    background-color: $primary-color;
+    height: 25.62em;
+    position: relative;
+    left: 50.70%;
+    bottom: 25.87em;
+    width: 49.29%;
+}
+
+.info-who {
+    color: white;
+    position: relative;
+    left: 8.39%;
+    top: 4.87em;
+    width: 80.50%;
+
+    p{
+        color: white;
+    }
+}
+
+.gallery {
+    position: relative;
+    bottom: 15.43em;
+    text-align: center;
+
+    p{
+        margin-top: 0.75em;
+    }
+}
+
+// Footer
+.footer-info{
+    background-color: $primary-color;
+    margin-top: 9.25em;
+}
+
+.foo-info{
+    display: inline-block;
+    color: white;
+    margin: 2.43em 0em 0em 6.79%;
+    vertical-align: text-top;
+    width: 17.96%;
+}
+
+.footer p{
+    color: white;
+}
+
+
+
+
+
