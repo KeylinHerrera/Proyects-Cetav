@@ -1,0 +1,36 @@
+html{
+    font-size: 100%;
+}
+
+body{
+    font-size: 1em;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: $thirth-color;
+    font: 1.12em $primary-font;
+    text-transform: uppercase;  
+}
+
+h3 {
+    color: $thirth-color;
+    font: 1em $primary-font;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 0.87em $primary-font;
+    text-transform: uppercase;
+    margin-bottom: 1.12em;
+}
+
+p {
+    color: $thirth-color;
+    font: 0.81em $primary-font;
+    line-height: 150%;
+}

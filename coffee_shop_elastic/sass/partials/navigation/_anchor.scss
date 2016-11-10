@@ -1,0 +1,43 @@
+ul{
+    display: flex;
+    float: right;
+    margin-right: 7em;
+}
+
+.header li{
+    display: inline;
+}
+
+a{
+    color: $primary-color;
+    font: $achor-font;
+    text-decoration: none;
+}
+
+.house{
+    height: 0.75em;
+}
+
+.leftarrow {
+   position: relative;
+   left: 6.43em;
+   top: 3.06em;
+}
+
+.rightarrow {
+    position: relative;
+    bottom: 11.62em;
+    left: 59.18em;   
+}
+
+.eclipse {
+    position: relative;
+    left: 20.12em;
+    bottom: 1.93em;
+}
+
+.arrow {
+    position: relative;
+    left: 39.81em;
+    top: 1.56em;
+}
